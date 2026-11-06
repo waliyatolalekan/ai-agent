@@ -1,1 +1,3 @@
-# ai-agent
+I took a course on Introduction to Agents at Mercor. This is a documentation of my capstone project.
+
+Through this exercise, I learned how to strategically manage and constrain an AI agent to execute a multi-step security audit by controlling its context, workspace, and instructions. I also reinforced my first-principles understanding of core vulnerabilities like SQL Injection and SSRF by tracing raw data flows in procedural PHP scripts. Most importantly, I developed the critical managerial skill of independently reviewing AI-generated code to spot its mistakes and enforce accurate, security remediations.
